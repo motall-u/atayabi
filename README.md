@@ -4,6 +4,8 @@ Un jeu de simulation où des agents IA négocient **en wolof** pour survivre sur
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+![Àttaya bi — Écran d'accueil](welcome.png)
+
 ## Concept
 
 3 à 5 agents IA, chacun avec une personnalité unique, sont échoués sur une île. Ils doivent négocier, échanger, former des alliances et voter — tout en communiquant **en wolof** grâce à un LLM fine-tuné. Le joueur humain observe.
